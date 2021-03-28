@@ -1,3 +1,5 @@
+Copy paste me
+
 DisplayMenu = false
 local MenuEnabled = true
 local tab = "Self"
